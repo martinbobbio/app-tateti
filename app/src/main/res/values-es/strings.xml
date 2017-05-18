@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ta-Te-Ti</string>
+
+    <string name="one_player">1 jugador</string>
+    <string name="two_player">2 jugadores</string>
+
+    <string name="easy">Facil</string>
+    <string name="normal">Normal</string>
+    <string name="imposible">Imposible</string>
+
+    <string name="win_circle">Circulos ganan!</string>
+    <string name="win_cross">Cruces ganan!</string>
+    <string name="tie">Empate!</string>
+</resources>

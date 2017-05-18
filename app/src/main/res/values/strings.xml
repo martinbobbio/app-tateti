@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+
+    <string name="one_player">1 player</string>
+    <string name="two_player">2 players</string>
+
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="imposible">Imposible</string>
+
+    <string name="win_circle">Circles win!</string>
+    <string name="win_cross">Cross win!</string>
+    <string name="tie">Tie!</string>
+</resources>
