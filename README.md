@@ -9,4 +9,4 @@ Android Studio y Java
 
 Juego:
 
-![Image of inicio](public/imagenes/pagina/inicio.PNG)
+![Image of inicio](juego.jpg)
